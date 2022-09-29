@@ -6,3 +6,8 @@
 ## Problem 4. Cartesian coordinates to orbital elements
 
 ### Instructions for using the coordinate conversion code
+
+Run the first cell in the ipynb file to load the libraries required for computation.
+Run the second cell that contains the actual code. You may want to change plt.savefig() to plt.show(), but otherwise the code runs automatically.
+
+The .csv files are exported to the 'data' folder in module05-prob04 directory
